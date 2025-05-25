@@ -1,0 +1,6 @@
+name = "chatgpt-telegram-bot"
+compatibility_date = "2024-05-25"
+main = "index.ts"
+
+[vars]
+# Установите переменные окружения в интерфейсе Cloudflare или через wrangler secret put

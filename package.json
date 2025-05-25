@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt-telegram-bot",
+  "type": "module",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler publish"
+  },
+  "devDependencies": {
+    "wrangler": "^3.28.0"
+  }
+}
